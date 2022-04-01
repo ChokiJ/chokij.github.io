@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Chris Jia</title>
+    <link>https://blog.choki.xyz/</link>
+    <description>Recent content on Chris Jia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 30 Mar 2022 11:06:26 +0800</lastBuildDate><atom:link href="https://blog.choki.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://blog.choki.xyz/posts/hello-world/</link>
+      <pubDate>Wed, 30 Mar 2022 11:06:26 +0800</pubDate>
+      
+      <guid>https://blog.choki.xyz/posts/hello-world/</guid>
+      <description>This is my new blog. Powered by Hugo.</description>
+    </item>
+    
+  </channel>
+</rss>
