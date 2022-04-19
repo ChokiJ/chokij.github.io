@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Chris Jia</title>
-    <link>https://blog.choki.xyz/</link>
-    <description>Recent content on Chris Jia</description>
+    <title>随想 on Chris Jia</title>
+    <link>https://blog.choki.xyz/categories/%E9%9A%8F%E6%83%B3/</link>
+    <description>Recent content in 随想 on Chris Jia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 11 Apr 2022 21:55:50 +0800</lastBuildDate><atom:link href="https://blog.choki.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Apr 2022 21:55:50 +0800</lastBuildDate><atom:link href="https://blog.choki.xyz/categories/%E9%9A%8F%E6%83%B3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>队列之间</title>
       <link>https://blog.choki.xyz/posts/between-two-lines/</link>
@@ -30,15 +30,6 @@
  每当临近生日时，我习惯于收集会在4月8号发生的事件。而每年，这个习惯都会让我发现：「貌似4月8日真的是个特别的日期」。例如2014年的「米粉节」（那时候我还是个米粉）、Windows XP的停止更新、各种游戏的发售日、再到最近因为疫情停售了4月8日以后所有的火车票&amp;hellip;&amp;hellip;
  一方面，这么多的「巧合」会让我觉得自己很特别，另一方面我又激起自己的好奇心，去探究为什么社会会如此钟情这个日期。然而直到今天我也没能找到答案，或许我已渐渐意识到可能仅仅只是因为我的特别关注，才会显得4月8日如此特别。
  可能问题的答案就是：每一天都是另一个人的生日，他们的生日也是如此特别。而我，只是一个普通的人。</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://blog.choki.xyz/posts/hello-world/</link>
-      <pubDate>Wed, 30 Mar 2022 11:06:26 +0800</pubDate>
-      
-      <guid>https://blog.choki.xyz/posts/hello-world/</guid>
-      <description>This is my new blog. Powered by Hugo.</description>
     </item>
     
   </channel>

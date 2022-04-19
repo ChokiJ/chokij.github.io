@@ -2,20 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.choki.xyz/categories/</loc>
+    <lastmod>2022-04-11T21:55:50+08:00</lastmod>
+  </url><url>
     <loc>https://blog.choki.xyz/</loc>
-    <lastmod>2022-04-01T10:37:36+08:00</lastmod>
+    <lastmod>2022-04-11T21:55:50+08:00</lastmod>
   </url><url>
     <loc>https://blog.choki.xyz/posts/</loc>
+    <lastmod>2022-04-11T21:55:50+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.choki.xyz/tags/</loc>
+    <lastmod>2022-04-11T21:55:50+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.choki.xyz/tags/%E6%A0%B8%E9%85%B8/</loc>
+    <lastmod>2022-04-11T21:55:50+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.choki.xyz/tags/%E7%96%AB%E6%83%85/</loc>
+    <lastmod>2022-04-11T21:55:50+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.choki.xyz/posts/between-two-lines/</loc>
+    <lastmod>2022-04-11T21:55:50+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.choki.xyz/categories/%E9%9A%8F%E6%83%B3/</loc>
+    <lastmod>2022-04-11T21:55:50+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.choki.xyz/tags/%E5%9B%9B%E6%9C%88/</loc>
     <lastmod>2022-04-01T10:37:36+08:00</lastmod>
   </url><url>
     <loc>https://blog.choki.xyz/posts/april-myth/</loc>
     <lastmod>2022-04-01T10:37:36+08:00</lastmod>
   </url><url>
+    <loc>https://blog.choki.xyz/tags/%E7%94%9F%E6%97%A5/</loc>
+    <lastmod>2022-04-01T10:37:36+08:00</lastmod>
+  </url><url>
     <loc>https://blog.choki.xyz/posts/hello-world/</loc>
     <lastmod>2022-03-30T11:06:26+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.choki.xyz/categories/</loc>
-  </url><url>
-    <loc>https://blog.choki.xyz/tags/</loc>
   </url>
 </urlset>
