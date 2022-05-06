@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.choki.xyz/categories/</loc>
-    <lastmod>2022-04-11T21:55:50+08:00</lastmod>
-  </url><url>
     <loc>https://blog.choki.xyz/</loc>
-    <lastmod>2022-04-11T21:55:50+08:00</lastmod>
+    <lastmod>2022-05-05T09:29:47+08:00</lastmod>
   </url><url>
     <loc>https://blog.choki.xyz/posts/</loc>
+    <lastmod>2022-05-05T09:29:47+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.choki.xyz/posts/the-summer-begins/</loc>
+    <lastmod>2022-05-05T09:29:47+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.choki.xyz/categories/</loc>
     <lastmod>2022-04-11T21:55:50+08:00</lastmod>
   </url><url>
     <loc>https://blog.choki.xyz/tags/</loc>
